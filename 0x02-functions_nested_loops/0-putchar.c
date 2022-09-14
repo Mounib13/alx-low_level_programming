@@ -1,6 +1,6 @@
 #include "0-putchar.c"
 /*
-* main - Prints _putchar
+* main - Prints 0-putchar.c
 * Return: Always 0 (Success)
 */
 int main(void)
